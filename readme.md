@@ -8,7 +8,7 @@ Our easy to navigate search list gives you the ticker symbol for each of your cr
 
 ## Deployment
 
-CryptoTracking is deployed and available for use at https://srfrog1970.github.io/CryptoTracking/.
+CryptoTracking is deployed and available for use at https://bpolo15.github.io/CryptoTracking/.
 
 ## Built With
 
